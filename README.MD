@@ -4,7 +4,7 @@ Comp Bio in NUS is a degree that doesn't have a lot readily available resources 
 
 ##Table of Contents:
 
--[General Information:]
+-General Information:
  -[What is Comp Bio about?]
  -[What are the minimum requirements for admission? (or: Who should take Comp Bio?)] 
  -[Career Choices?] 
