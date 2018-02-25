@@ -87,15 +87,23 @@ SoC is particularly helpful because they will help teach you the basics to Java,
 
 Keep a look out for things like this if you're in NS and waiting for college to start.
 
+Doing the iBLOCS in CS1010X is also an incredibly great way to lower your workload when in NUS. This will let you take a module before you start college (either because of NS or because of a gap year) and only doing one or two subjects will help you ease into college life as well as give you an infinitely better foundation than doing it with other subjects. 
+
+This may also be an ideal way to make friends as you'll be taking classes with equally motivated students.
+
 (Special shotout to the International School kids: if you need help adjusting to that drop me a DM too. I came from that route.)
 
 
 ## Resources to Keep:
 
 ### Textbooks Online
-Dropbox Link to Comp Bio Textbooks
-NUS Box Link to Study Materials 
-PLEASE DO NOT BE AN ASSHOLE AND RUIN THE PUBLIC BOX. (or my personal repository of textbooks)
+Dropbox Link to Comp Bio Textbooks:
+https://www.dropbox.com/sh/w589r2hmoqpf6qs/AAAyxtF_x7JIJhh9R5QXdM96a?dl=0
+
+NUS Box Link to Study Materials: 
+https://app.box.com/v/socrepository
+
+**PLEASE DO NOT BE AN ASSHOLE AND RUIN THE PUBLIC BOX. (or my personal repository of textbooks)**
 
 ## Where to go when things get tough
 I cannot emphasise enough how not-easy this major is. Things will get tough. That's okay, that's the nature of a multidisciplinary degree. That's also incredibly normal and happens to the best of us. That's why time management and having prioritiesis incredibly vital. This degree is not for the feint-hearted, I'll tell you that. 
