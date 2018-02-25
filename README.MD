@@ -29,12 +29,9 @@ Comp Bio in NUS is a degree that doesn't have a lot readily available resources 
 ## General Information 
 
 ### What is Comp Bio all about?
-Computational Biology is all about 
+Computational Biology is all about being able to handle the high outputs of genomic data that've started to pour in as a result of being able to quickly sequence genetic data (NGS or Next Generation Sequencing) We as Comp Bio kids are meant to be equipped with the Maths (Statistical) and Computer Science (mainly algorithms - but please look at others) skills that will help process the data for Biologists (or yourself). 
 
-What will you be studying?
-
-What is the industry about? (It don't matter, think of it as highly versatile - only if you're up for the challenge)
-
+In NUS, you will be given an incredibly demanding foundation in all 3 fields - Biology, Maths(/Stats) and Computer Science. This is unlike a lot of other colleges that may cut down the demands to allow for a lower workload. This degree is unapologetically a strong foundational study in all 3. Take that word of caution (or exciting marketing speech) seriously. This degree is not for the feint-hearted.
 
 ### What are the minimum requirements for admission? (or: Who should take Comp Bio?)
 If you read nothing else in this section: **PLEASE DO NOT JOIN THIS DEGREE IF YOU HAVE TO TAKE A BRIDGING MODULE IN SOMETHING YOU'RE LACKING. THAT IS A TERRIBLE IDEA UNLESS YOU'RE CONFIDENT YOU'RE MAKING A GOOD DECISION ABOUT RAISING YOUR WORKLOAD.**
