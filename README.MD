@@ -48,13 +48,14 @@ Alright, that aside.
 The good news is that Comp Bio will let anyone with an acceptance to NUS Faculty of Science in. You will be assessed for your ability to handle a degree that is not easy above anything else - therefore. If you are given an interview - please convince the professor that you are able to handle the programme. This is a good time for you to run some self assessments of whether or not you are ready for this. It's alright if you're not. There're many ways into Comp Bio/Big Data - this is just one of them. And a very hardcore one at that.
 
 ### Career Choices?
-(CS, Data Science, ML spec)
 
+Ah now for the fun part. You can do just about anything. **Caveat: If you plan for it right.** After being exposed to the various subject fields, it'd be a great idea to have a look at what you love doing and figuring out which modules will help you propell towards that.
 
+Your degree prepares you for careers in: being a straight up Software Developer (with or without that advantage of being trained in Machine Learning methods the right way), Data Scientist (Marketing, Consulting, Data Analytics), an Academic in any of the fields talked about (or all). Of course there are others. Be imaginative. 
+
+So it's obvious that a Software Engineer does need you to take more CS modules (perhaps taking super easy versions of the others), a Data Scientist taking a balance of CS, Maths and Communication modules (and perhaps even business) - and for an academic, any of them plus a UROPS with a professor you find easy to work with. 
 
 ## Tips to Studying Comp Bio as a Major (in NUS):
-
-### Day to Day of a Comp Bio major
 
 ### Choosing Modules
 // fix link please Xuan
@@ -67,6 +68,8 @@ I personally disagree with the way your modules are set up in the study plan. I'
 
 For example, LSM1102, LSM1106, and CM1401 should be taken together instead of one each semester; MA1101R, MA1102R and CS1231/MA1100 as well. The other 2 can either be filler subjects (GE Modules) - or one of the programming methodology series modules (CS1010S/E or CS1101S, CS1020, etc - it has changed for the new generation. Please check) 
 
+If you do find yourself struggling with a subject - consider looking at equivalent modules that are easier (CS1020 vs CS1020E; MA1102R sem 1 vs sem 2). This will save sanity. Trust me. 
+
 Add a section on communication?
 ### Hidden Prerequisites
 
@@ -75,11 +78,27 @@ I also have to say that should you deviate - you should be aware of the hidden p
 Module scheduling can be difficult for Comp Bio considering the classes in the many majors we take - please check to make sure they are allowed. I have been in situations where I'm behind on my module progression because of this. Please check with the Comp Bio admin team. They're incredibly lovely people. Please therefore also keep tabs on module changes that can affect you. For example I took CS2010 at a time where SoC was not sure if they were going to offer the module anymore in favour of a newer version we can't take. I may have not been able to take my higher level CS modules because of this. Please seek out pieces of information like this as they will significantly affect your workload if not. 
 
 ### Finding Likeminded Friends 
-Friends are important. With the major being abysmally small. It's important to find allies in other camps. A Data Science friend is an ideal substitute because of how similar our degree requirements are. 
+Friends are important. With the major being abysmally small. It's important to find allies in other camps. A Data Science friend is an ideal substitute because of how similar our degree requirements are. Maths and Stats have similar requirements too - but will probably be better if you are a CS/Maths speced Comp Bio kid like me.
+
+## What do I do if I want to get started early? 
+
+Ah well done, you've realised what you're getting yourself into. This is great. 
+
+Get yourself acquainted with the facebook pages of all the subjects you're studying - SoC, Maths, Life Sciences. They will periodically post information sessions and events relating to Big Data, Data Science etc.
+
+SoC is particularly helpful because they will help teach you the basics to Java, C++ and the command line. Join up, join hackerthons,join NUS Hackers. I hang out there and will be happy to help out if you need. 
+
+Keep a look out for things like this if you're in NS and waiting for college to start.
+
+(Special shotout to the International School kids: if you need help adjusting to that drop me a DM too. I came from that route.)
+
 
 ## Resources to Keep:
 
 ### Textbooks Online
+Dropbox Link to Comp Bio Textbooks
+NUS Box Link to Study Materials 
+PLEASE DO NOT BE AN ASSHOLE AND RUIN THE PUBLIC BOX. (or my personal repository of textbooks)
 
 ## Where to go when things get tough
 I cannot emphasise enough how not-easy this major is. Things will get tough. That's okay, that's the nature of a multidisciplinary degree. That's also incredibly normal and happens to the best of us. That's why time management and having prioritiesis incredibly vital. This degree is not for the feint-hearted, I'll tell you that. 
@@ -100,7 +119,8 @@ http://www.science.nus.edu.sg/students/get-help/talk-to-someone
 
 
 ## About the Creator:
-Hi I'm Xuan, I'm in year 2 as of 2018. I focus mainly on the Computer Science and Mathematics part of my degree. 
+Hi I'm Xuan, I'm in year 2 as of 2018. I focus mainly on the Computer Science and Mathematics part of my degree. If you're curious about the degree and would like to know more - please talk to me too. I want to demystify this degree. Adjusting was a terrible time for me.
 
 ## Contribute to the Guide:
 Please drop me a DM on any channel. I'll be happy to talk to you about how you'd like to contribute. 
+I am also incredibly happy to hear about suggestions - in fact I welcome it. Comp Bio is small enough as it is, collaboration is what will make this work better. 
