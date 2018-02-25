@@ -24,16 +24,16 @@ Comp Bio in NUS is a degree that doesn't have a lot readily available resources 
 
 - [About the Creator:](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#about-the-creator)
 
-
+// Xuan, remember to write this rememebering that people don't know anything about the degree
 
 ## General Information 
 
 ### What is Comp Bio all about?
-
+Computational Biology is all about 
 
 
 ### What are the minimum requirements for admission? (or: Who should take Comp Bio?)
-If you read nothing else in this section: PLEASE DO NOT JOIN THIS DEGREE IF YOU HAVE TO TAKE A BRIDGING MODULE IN SOMETHING YOU'RE LACKING. THAT IS A TERRIBLE IDEA UNLESS YOU'RE CONFIDENT YOU'RE MAKING A GOOD DECISION ABOUT RAISING YOUR WORKLOAD.
+If you read nothing else in this section: **PLEASE DO NOT JOIN THIS DEGREE IF YOU HAVE TO TAKE A BRIDGING MODULE IN SOMETHING YOU'RE LACKING. THAT IS A TERRIBLE IDEA UNLESS YOU'RE CONFIDENT YOU'RE MAKING A GOOD DECISION ABOUT RAISING YOUR WORKLOAD.**
 
 I just did you a favour. 
 
@@ -52,6 +52,9 @@ The good news is that Comp Bio will let anyone with an acceptance to NUS Faculty
 ### Timetable Scheduling (and Hidden prerequisites)
 // fix link please Xuan
 
+In Comp Bio, most (if not all) of your modules are preallocated to you. It is up to you to decide which modules to take every semester when the office asks for preallocaiton options.
+
+I personally disagree with the way your modules are set up in the study plan. I'd highly 
 
 ### What modules to choose
 
