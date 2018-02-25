@@ -3,10 +3,10 @@
 Comp Bio in NUS is a degree that doesn't have a lot readily available resources on. Lots of information essential to the degree ends up having to be learnt as you go. I'd like to change that. This degree means a lot to me, and so I'd like to create this to give people curious about the degree, or are in the programme to have a good idea of what it entails. 
 ## Table of Contents:
 
--General Information:
- -[What is Comp Bio about?]
- -[What are the minimum requirements for admission? (or: Who should take Comp Bio?)] 
- -[Career Choices?] 
+- [General Information:](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#what-is-comp-bio-all-about)
+ - [What is Comp Bio about?](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#what-is-comp-bio-all-about)
+ - [What are the minimum requirements for admission? (or: Who should take Comp Bio?)] 
+ - [Career Choices?] 
 
 -[Tips to Studying Comp Bio as a Major (in NUS)]:
  -[Day to Day of a Comp Bio major]
