@@ -20,11 +20,11 @@ Comp Bio in NUS is a degree that doesn't have a lot readily available resources 
 
 - [Where to go when things get tough](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#where-to-go-when-things-get-tough) 
 
-- [About the Creator:](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#about-the-creator)
-
 - [Contribute to the Guide:](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#contribute-to-the-guide)
 
-- [Contact me!](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#contact-me)
+- [About the Creator:](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#about-the-creator)
+
+
 
 ## General Information 
 
@@ -61,15 +61,14 @@ If the degree and life gets too tough, I highly encourage you to go see the cons
 Friends are also important - comrades in battle make things easier. They are your first line of defense. Please make great friends during orientation camp, or run a Discord group for Comp Bio (I'll be happy to help with this). Friends and seniors are your go-to source on academic requirements and how best to cope with your degree - they know this degree better than your professors (and they admit it)
 
 Here are some links:
+
 http://www.nus.edu.sg/uhc/resources/faq/faq-student-mental-health.html (It is best to go before recess week as lots of people go past then)
 
 http://www.science.nus.edu.sg/students/get-help/talk-to-someone
 
 
-## About the Creator:
-
-
 ## Contribute to the Guide:
 
-## Contact me! 
+## About the Creator:
 Hi I'm Xuan, I'm in year 2 as of 2018. I focus mainly on the Computer Science and Mathematics part of my degree. 
+
