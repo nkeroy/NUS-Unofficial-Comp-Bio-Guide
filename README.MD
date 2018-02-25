@@ -30,16 +30,28 @@ Comp Bio in NUS is a degree that doesn't have a lot readily available resources 
 
 ### What is Comp Bio all about?
 
+
+
 ### What are the minimum requirements for admission? (or: Who should take Comp Bio?)
-(CS, Data Science, ML spec)
+If you read nothing else in this section: PLEASE DO NOT JOIN THIS DEGREE IF YOU HAVE TO TAKE A BRIDGING MODULE IN SOMETHING YOU'RE LACKING. THAT IS A TERRIBLE IDEA UNLESS YOU'RE CONFIDENT YOU'RE MAKING A GOOD DECISION ABOUT RAISING YOUR WORKLOAD.
+
+I just did you a favour. 
+
+As is, exceptional circumstances exist. I'd highly encourage running your own research to assess if you are said class of people. (I was)
+
+Alright, that aside. 
+
+The good news is that Comp Bio will let anyone with an acceptance to NUS Faculty of Science in. You will be assessed for your ability to handle a degree that is not easy above anything else - therefore. If you are given an interview - please convince the professor that you are able to handle the programme. This is a good time for you to run some self assessments of whether or not you are ready for this. It's alright if you're not. There're many ways into Comp Bio/Big Data - this is just one of them. And a very hard core one at that.
 
 ### Career Choices?
-
+(CS, Data Science, ML spec)
 ## Tips to Studying Comp Bio as a Major (in NUS):
 
 ### Day to Day of a Comp Bio major
 
-### Timetable Scheduling (Hidden prerequisites)
+### Timetable Scheduling (and Hidden prerequisites)
+// fix link please Xuan
+
 
 ### What modules to choose
 
@@ -67,8 +79,8 @@ http://www.nus.edu.sg/uhc/resources/faq/faq-student-mental-health.html (It is be
 http://www.science.nus.edu.sg/students/get-help/talk-to-someone
 
 
-## Contribute to the Guide:
-
 ## About the Creator:
 Hi I'm Xuan, I'm in year 2 as of 2018. I focus mainly on the Computer Science and Mathematics part of my degree. 
 
+## Contribute to the Guide:
+Please drop me a DM on any channel. I'll be happy to talk to you about how you'd like to contribute. 
