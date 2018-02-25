@@ -8,7 +8,7 @@ Comp Bio in NUS is a degree that doesn't have a lot readily available resources 
    - [What are the minimum requirements for admission? (or: Who should take Comp Bio?)](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#what-are-the-minimum-requirements-for-admission-or-who-should-take-comp-bio) 
    - [Career Choices?](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#career-choices) 
 
-- [Tips to Studying Comp Bio as a Major (in NUS)      (https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#tips-to-studying-comp-bio-as-a-major-in-nus)
+- [Tips to Studying Comp Bio as a Major (in NUS)]      (https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#tips-to-studying-comp-bio-as-a-major-in-nus)
    - [Day to Day of a Comp Bio major](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#day-to-day-of-a-comp-bio-major)
    - [Timetable Scheduling (Hidden prerequisites)](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#timetable-scheduling-hidden-prerequisites)
    - [What modules to choose](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#what-modules-to-choose)
@@ -31,6 +31,10 @@ Comp Bio in NUS is a degree that doesn't have a lot readily available resources 
 ### What is Comp Bio all about?
 Computational Biology is all about 
 
+What will you be studying?
+
+What is the industry about? (It don't matter, think of it as highly versatile - only if you're up for the challenge)
+
 
 ### What are the minimum requirements for admission? (or: Who should take Comp Bio?)
 If you read nothing else in this section: **PLEASE DO NOT JOIN THIS DEGREE IF YOU HAVE TO TAKE A BRIDGING MODULE IN SOMETHING YOU'RE LACKING. THAT IS A TERRIBLE IDEA UNLESS YOU'RE CONFIDENT YOU'RE MAKING A GOOD DECISION ABOUT RAISING YOUR WORKLOAD.**
@@ -41,24 +45,37 @@ As is, exceptional circumstances exist. I'd highly encourage running your own re
 
 Alright, that aside. 
 
-The good news is that Comp Bio will let anyone with an acceptance to NUS Faculty of Science in. You will be assessed for your ability to handle a degree that is not easy above anything else - therefore. If you are given an interview - please convince the professor that you are able to handle the programme. This is a good time for you to run some self assessments of whether or not you are ready for this. It's alright if you're not. There're many ways into Comp Bio/Big Data - this is just one of them. And a very hard core one at that.
+The good news is that Comp Bio will let anyone with an acceptance to NUS Faculty of Science in. You will be assessed for your ability to handle a degree that is not easy above anything else - therefore. If you are given an interview - please convince the professor that you are able to handle the programme. This is a good time for you to run some self assessments of whether or not you are ready for this. It's alright if you're not. There're many ways into Comp Bio/Big Data - this is just one of them. And a very hardcore one at that.
 
 ### Career Choices?
 (CS, Data Science, ML spec)
+
+
+
 ## Tips to Studying Comp Bio as a Major (in NUS):
 
 ### Day to Day of a Comp Bio major
 
-### Timetable Scheduling (and Hidden prerequisites)
+### Choosing Modules
 // fix link please Xuan
+
+It's a wild open world with the choices in Comp Bio. You're able to take subjects from 3 subject fields (and more): Computer Science,Mathematics and Biology. With the freedom here, I'd highly recommend that you stick to focusing on 2 out of 3 subject fields - and not run a hodge podge of all 3; and that the other field you neglect - you save your S/Us for so you're better able to focus on your 2 main subject areas. 
 
 In Comp Bio, most (if not all) of your modules are preallocated to you. It is up to you to decide which modules to take every semester when the office asks for preallocaiton options.
 
-I personally disagree with the way your modules are set up in the study plan. I'd highly 
+I personally disagree with the way your modules are set up in the study plan. I'd highly recommend spending your foundation years (Years 1 and 2) working through one subject area per semester - as opposed to doing one of every field. I disagree on 2 fronts. First off, you should be aware that you're taking the foundation modules of 3 different distinct majors. These majors tend to take all of the modules you have spread out across many semesters in one. Doing it like a proper math/CS/bio major would will not only help you make friends who could be better at you at that field, but it will also have a structure to how it is defined. These modules were designed to be taken together, and so tend to repeat some common themes vital to having a good foundation in your degree across classes. I would therefore do that instead. 
 
-### What modules to choose
+For example, LSM1102, LSM1106, and CM1401 should be taken together instead of one each semester; MA1101R, MA1102R and CS1231/MA1100 as well. The other 2 can either be filler subjects (GE Modules) - or one of the programming methodology series modules (CS1010S/E or CS1101S, CS1020, etc - it has changed for the new generation. Please check) 
+
+Add a section on communication?
+### Hidden Prerequisites
+
+I also have to say that should you deviate - you should be aware of the hidden prerequisites that make life harder if you don't have it. CS2010 for example requires CS1231 as a hidden pre-requisites as it is expected that you learn the algorithms for MST there and that you're now expected to know the algorithm well to code it and optimise it for specific situations. 
+
+Module scheduling can be difficult for Comp Bio considering the classes in the many majors we take - please check to make sure they are allowed. I have been in situations where I'm behind on my module progression because of this. Please check with the Comp Bio admin team. They're incredibly lovely people. Please therefore also keep tabs on module changes that can affect you. For example I took CS2010 at a time where SoC was not sure if they were going to offer the module anymore in favour of a newer version we can't take. I may have not been able to take my higher level CS modules because of this. Please seek out pieces of information like this as they will significantly affect your workload if not. 
 
 ### Finding Likeminded Friends 
+Friends are important. With the major being abysmally small. It's important to find allies in other camps. A Data Science friend is an ideal substitute because of how similar our degree requirements are. 
 
 ## Resources to Keep:
 
