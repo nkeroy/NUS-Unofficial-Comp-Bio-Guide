@@ -5,25 +5,25 @@ Comp Bio in NUS is a degree that doesn't have a lot readily available resources 
 
 - [General Information:](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#what-is-comp-bio-all-about)
    - [What is Comp Bio about?](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#what-is-comp-bio-all-about)
- - [What are the minimum requirements for admission? (or: Who should take Comp Bio?)] 
- - [Career Choices?] 
+   - [What are the minimum requirements for admission? (or: Who should take Comp Bio?)] 
+   - [Career Choices?] 
 
--[Tips to Studying Comp Bio as a Major (in NUS)]:
- -[Day to Day of a Comp Bio major]
- -[Timetable Scheduling (Hidden prerequisites)]
- -[What modules to choose]
- -[Finding Likeminded Friends] 
+- [Tips to Studying Comp Bio as a Major (in NUS)]:
+   - [Day to Day of a Comp Bio major]
+   - [Timetable Scheduling (Hidden prerequisites)]
+   - [What modules to choose]
+   - [Finding Likeminded Friends] 
 
--Resources to Keep:
- -Maximising your time
- -Textbooks Online
- -Where to go when things get tough 
+- [Resources to Keep:]
+   - [Maximising your time]
+   - [Textbooks Online]
+   - [Where to go when things get tough] 
 
--About the Creator:
+- [About the Creator:]
 
--Contribute to the Guide:
+- [Contribute to the Guide:]
 
--Contact me! 
+- [Contact me!]
 
 ## General Information 
 
