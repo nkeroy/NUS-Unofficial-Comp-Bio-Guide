@@ -6,14 +6,14 @@ Comp Bio in NUS is a degree that doesn't have a lot readily available resources 
 
 -[General Information:]
  -[What is Comp Bio about?]
- -What are the minimum requirements for admission? (or: Who should take Comp Bio?)
- -Career Choices? (CS, Data Science, ML spec)
+ -[What are the minimum requirements for admission? (or: Who should take Comp Bio?)] 
+ -[Career Choices?] 
 
--Tips to Studying Comp Bio as a Major (in NUS):
- -Day to Day of a Comp Bio major
- -Timetable Scheduling (Hidden prerequisites)
- -What modules to choose
- -Finding Likeminded Friends 
+-[Tips to Studying Comp Bio as a Major (in NUS)]:
+ -[Day to Day of a Comp Bio major]
+ -[Timetable Scheduling (Hidden prerequisites)]
+ -[What modules to choose]
+ -[Finding Likeminded Friends] 
 
 -Resources to Keep:
  -Maximising your time
@@ -31,6 +31,7 @@ Comp Bio in NUS is a degree that doesn't have a lot readily available resources 
 #What is Comp Bio all about?
 
 #What are the minimum requirements for admission? (or: Who should take Comp Bio?)
+(CS, Data Science, ML spec)
 
 #Career Choices?
 
