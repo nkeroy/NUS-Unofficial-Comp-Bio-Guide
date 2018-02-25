@@ -35,7 +35,7 @@ In NUS, you will be given an incredibly demanding foundation in all 3 fields - B
 ### What are the minimum requirements for admission? (or: Who should take Comp Bio?)
 If you read nothing else in this section: **PLEASE DO NOT JOIN THIS DEGREE IF YOU HAVE TO TAKE A BRIDGING MODULE IN SOMETHING YOU'RE LACKING. THAT IS A TERRIBLE IDEA UNLESS YOU'RE CONFIDENT YOU'RE MAKING A GOOD DECISION ABOUT RAISING YOUR WORKLOAD.**
 
-I just did you a favour. 
+I just said something very important there. 
 
 As is, exceptional circumstances exist. I'd highly encourage running your own research to assess if you are said class of people. (I was)
 
@@ -85,7 +85,7 @@ Ah well done, you've realised what you're getting yourself into. This is great.
 
 Get yourself acquainted with the facebook pages of all the subjects you're studying - SoC, Maths, Life Sciences. They will periodically post information sessions and events relating to Big Data, Data Science etc.
 
-SoC is particularly helpful because they will help teach you the basics to Java, C++ and the command line. Join up, join hackerthons,join NUS Hackers. I hang out there and will be happy to help out if you need. 
+SoC is particularly helpful because they will help by running workshops that teach you the basics to Java, C++ and the command line. Join up, join hackerthons,join NUS Hackers. I hang out there and will be happy to help out if you need. 
 
 Keep a look out for things like this if you're in NS and waiting for college to start.
 
