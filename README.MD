@@ -8,7 +8,7 @@ Comp Bio in NUS is a degree that doesn't have a lot readily available resources 
    - [What are the minimum requirements for admission? (or: Who should take Comp Bio?)](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#what-are-the-minimum-requirements-for-admission-or-who-should-take-comp-bio) 
    - [Career Choices?](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#career-choices) 
 
-- [Tips to Studying Comp Bio as a Major (in NUS)]      (https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#tips-to-studying-comp-bio-as-a-major-in-nus)
+- [Tips to Studying Comp Bio as a Major (in NUS)](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#tips-to-studying-comp-bio-as-a-major-in-nus)
    - [Day to Day of a Comp Bio major](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#day-to-day-of-a-comp-bio-major)
    - [Timetable Scheduling (Hidden prerequisites)](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#timetable-scheduling-hidden-prerequisites)
    - [What modules to choose](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#what-modules-to-choose)
@@ -23,8 +23,6 @@ Comp Bio in NUS is a degree that doesn't have a lot readily available resources 
 - [Contribute to the Guide:](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#contribute-to-the-guide)
 
 - [About the Creator:](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#about-the-creator)
-
-// Xuan, remember to write this rememebering that people don't know anything about the degree
 
 ## General Information 
 
@@ -55,7 +53,6 @@ So it's obvious that a Software Engineer does need you to take more CS modules (
 ## Tips to Studying Comp Bio as a Major (in NUS):
 
 ### Choosing Modules
-// fix link please Xuan
 
 It's a wild open world with the choices in Comp Bio. You're able to take subjects from 3 subject fields (and more): Computer Science,Mathematics and Biology. With the freedom here, I'd highly recommend that you stick to focusing on 2 out of 3 subject fields - and not run a hodge podge of all 3; and that the other field you neglect - you save your S/Us for so you're better able to focus on your 2 main subject areas. 
 
@@ -67,7 +64,11 @@ For example, LSM1102, LSM1106, and CM1401 should be taken together instead of on
 
 If you do find yourself struggling with a subject - consider looking at equivalent modules that are easier (CS1020 vs CS1020E; MA1102R sem 1 vs sem 2). This will save sanity. Trust me. 
 
-Add a section on communication?
+### Bonus Section for if Data Science/Software Engineering in AI is what you'd like
+
+Communication modules can be very vital to making or breaking a career. You should be aware that CS and Data Science tend to have a very diverse workforce and so being limited to Singlish (or just standard English) can leave you disadvantaged. I would suggest using your GE Modules as an excuse to take some communication classes (on top of the graduation requirement SP1541)
+
+A nice one I like that is pretty fun is GET1047 - Art and Identity. 
 ### Hidden Prerequisites
 
 I also have to say that should you deviate - you should be aware of the hidden prerequisites that make life harder if you don't have it. CS2010 for example requires CS1231 as a hidden pre-requisites as it is expected that you learn the algorithms for MST there and that you're now expected to know the algorithm well to code it and optimise it for specific situations. 
