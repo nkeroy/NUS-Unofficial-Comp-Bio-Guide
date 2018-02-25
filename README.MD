@@ -9,10 +9,11 @@ Comp Bio in NUS is a degree that doesn't have a lot readily available resources 
    - [Career Choices?](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#career-choices) 
 
 - [Tips to Studying Comp Bio as a Major (in NUS)](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#tips-to-studying-comp-bio-as-a-major-in-nus)
-   - [Day to Day of a Comp Bio major](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#day-to-day-of-a-comp-bio-major)
-   - [Timetable Scheduling (Hidden prerequisites)](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#timetable-scheduling-hidden-prerequisites)
-   - [What modules to choose](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#what-modules-to-choose)
+   - [Choosing Modules](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#choosing-modules)
+   - [Hidden Prerequisites](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#hidden-prerequisites)
    - [Finding Likeminded Friends](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#finding-likeminded-friends) 
+
+- [What do I do if I want to get started early?](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#what-do-i-do-if-i-want-to-get-started-early)
 
 - [Resources to Keep:](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#resources-to-keep)
    - [Textbooks Online](https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide#textbooks-online)
