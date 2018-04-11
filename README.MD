@@ -69,7 +69,7 @@ If you do find yourself struggling with a subject - consider looking at equivale
 
 Communication modules can be very vital to making or breaking a career. You should be aware that CS and Data Science tend to have a very diverse workforce and so being limited to Singlish (or just standard English) can leave you disadvantaged. I would suggest using your GE Modules as an excuse to take some communication classes (on top of the graduation requirement SP1541)
 
-A nice one I like that is pretty fun is GET1047 - Art and Identity. 
+A nice one I like that is pretty fun is GET1047 - Art and Identity (or anything that A/P Greg Petersen teaches - I hear he switches between a cycle of modules so do look for those. They're wonderful). 
 ### Hidden Prerequisites
 
 I also have to say that should you deviate - you should be aware of the hidden prerequisites that make life harder if you don't have it. CS2010 for example requires CS1231 as a hidden pre-requisites as it is expected that you learn the algorithms for MST there and that you're now expected to know the algorithm well to code it and optimise it for specific situations. 
